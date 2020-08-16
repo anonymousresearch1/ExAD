@@ -1,0 +1,7 @@
+*.npy
+*.txt
+*.png
+*.pt
+data
+data/*
+data/
