@@ -1,5 +1,5 @@
 # ExAD
-This is an anonymous repository with reference code for the paper "ExAD: An Ensemble Approach for Explanation-based Adversarial Detection" (under review in Asia CCS 2021).
+This is an anonymous repository with reference code for the paper "ExAD: An Ensemble Approach for Explanation-based Adversarial Detection" (under review in ACM ASIACCS 2021).
 
 ## Getting Started
 - If you wish to directly review the results of our whitebox evaluation,
@@ -17,4 +17,5 @@ pip install -r requirements.txt
 The current implementation is tested using Python 3.6 and Keras 2.2.5.
 
 ## Download pre-trained detector models and explanations of adversarial examples
-Please download the folder from the below link. You will need to place the folder named **data** in the root folder of this repository.
+We have anonymously shared the required data and models on [Google Drive](https://drive.google.com/file/d/1Ywc-dAU4vYCYU6AzO0O8v9zyvK95uIpz/view?usp=sharing).
+Please download and place the unzipped folder named `data` in the root folder of this repository i.e., in `ExAD/`
