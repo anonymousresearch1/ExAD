@@ -1,4 +1,5 @@
 .gitignore
+.ipynb_checkpoints
 *.npy
 *.png
 *.pt
