@@ -1,5 +1,5 @@
 # ExAD
-This is an anonymous repository with reference code for the paper "ExAD: An Ensemble Approach for Explanation-based Adversarial Detection" (under review in ACM ASIACCS 2021).
+This is an anonymous repository with reference code for the paper "ExAD: An Ensemble Approach for Explanation-based Adversarial Detection" (under review).
 
 ## Getting Started
 - If you wish to directly review the results of our whitebox evaluation,
